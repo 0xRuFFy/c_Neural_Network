@@ -1,0 +1,7 @@
+-Wall
+-Wextra
+-Werror
+-Wpedantic
+-std=c11
+-pedantic
+-glldb

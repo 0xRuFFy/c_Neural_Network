@@ -1,0 +1,62 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wpedantic",
+      "-std=c11",
+      "-pedantic",
+      "-Iinclude",
+      "-glldb",
+      "-c",
+      "-o",
+      "bin/obj/util.o",
+      "src/util.c"
+    ],
+    "directory": "/home/chifuyu/dev/c_code/bool_alg_ann",
+    "file": "/home/chifuyu/dev/c_code/bool_alg_ann/src/util.c",
+    "output": "/home/chifuyu/dev/c_code/bool_alg_ann/bin/obj/util.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wpedantic",
+      "-std=c11",
+      "-pedantic",
+      "-Iinclude",
+      "-glldb",
+      "-c",
+      "-o",
+      "bin/obj/neural_network.o",
+      "src/neural_network.c"
+    ],
+    "directory": "/home/chifuyu/dev/c_code/bool_alg_ann",
+    "file": "/home/chifuyu/dev/c_code/bool_alg_ann/src/neural_network.c",
+    "output": "/home/chifuyu/dev/c_code/bool_alg_ann/bin/obj/neural_network.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wpedantic",
+      "-std=c11",
+      "-pedantic",
+      "-Iinclude",
+      "-glldb",
+      "-c",
+      "-o",
+      "bin/obj/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/chifuyu/dev/c_code/bool_alg_ann",
+    "file": "/home/chifuyu/dev/c_code/bool_alg_ann/src/main.c",
+    "output": "/home/chifuyu/dev/c_code/bool_alg_ann/bin/obj/main.o"
+  }
+]
